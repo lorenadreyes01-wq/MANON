@@ -27,14 +27,16 @@ Por ejemplo:
 
 ## Ejemplo de salida
 
-```Información del Pokémon:```
-```Nombre: Pikachu```
-```Altura: 4```
-```Peso: 60```
-```Tipo(s): electric```
+``` bash
+Información del Pokémon:
+Nombre: Pikachu
+Altura: 4
+Peso: 60
+Tipo(s): electric```
 
 ## Estructura del proyecto
-``` bash git MANON/
+``` bash 
+git MANON/
 │
 ├── src/              # (opcional) tu código organizado en módulos
 ├── tests/            # (opcional) tus pruebas

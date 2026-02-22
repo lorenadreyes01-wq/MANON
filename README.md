@@ -27,14 +27,16 @@ Por ejemplo:
 
 ## Ejemplo de salida
 
-``` bash
+```bash
 Información del Pokémon:
 Nombre: Pikachu
 Altura: 4
 Peso: 60
-Tipo(s): electric```
+Tipo: electric 
+```
 
 ## Estructura del proyecto
+
 ``` bash 
 git MANON/
 │

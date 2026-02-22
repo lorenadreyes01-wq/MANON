@@ -17,21 +17,24 @@ poetry install
 
 # Uso
 Para ejecutar el programa:
-poetry run python main.py
+```bash
+poetry run python main.py 
+```
 
 El sistema pedirá el nombre de un Pokémon.
 Por ejemplo:
-Pikachu
+```Pikachu```
 
 ## Ejemplo de salida
-Información del Pokémon:
-Nombre: Pikachu
-Altura: 4
-Peso: 60
-Tipo(s): electric
+
+```Información del Pokémon:```
+```Nombre: Pikachu```
+```Altura: 4```
+```Peso: 60```
+```Tipo(s): electric```
 
 ## Estructura del proyecto
-MANON/
+``` bash git MANON/
 │
 ├── src/              # (opcional) tu código organizado en módulos
 ├── tests/            # (opcional) tus pruebas
@@ -39,6 +42,6 @@ MANON/
 ├── pyproject.toml    # configuración de Poetry
 ├── poetry.lock       # archivo de dependencias (se ignora en git)
 ├── README.md         # documentación del proyecto
-├── .gitignore        # exclusiones de git
+├── .gitignore        # exclusiones de git```
 
 

@@ -13,7 +13,9 @@ Este es mi proyecto en Python donde utilizo la [PokéAPI](https://pokeapi.co/) p
    cd MANON
 
 2. Instalar las dependencias:
+```bash
 poetry install
+```
 
 # Uso
 Para ejecutar el programa:
